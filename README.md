@@ -1,2 +1,2 @@
-# awesome-audio-antispoofing
+# Awesome-Audio-Antispoofing
 A curated list of audio anti-spoofing research
